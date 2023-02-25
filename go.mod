@@ -16,7 +16,7 @@ require (
 	github.com/peterbourgon/g2s v0.0.0-20160722085717-5767a0b20786
 	github.com/smartystreets/goconvey v1.6.4
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
-	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
 
 require (
