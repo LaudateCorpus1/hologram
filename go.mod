@@ -3,9 +3,8 @@ module github.com/AdRoll/hologram
 go 1.17
 
 require (
-	github.com/aws/aws-sdk-go v1.4.21-0.20161031215218-ed981a1d5ee7
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/aybabtme/rgbterm v0.0.0-20151029041548-c9a1bdb3761d
-	github.com/go-ini/ini v1.66.2 // indirect
 	github.com/golang/protobuf v1.5.2
 	github.com/gopherjs/gopherjs v0.0.0-20220104163920-15ed2e8cf2bd // indirect
 	github.com/howeyc/gopass v0.0.0-20161003130900-f5387c492211
@@ -23,9 +22,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/smartystreets/assertions v0.0.0-20180927180507-b2de0cb4f26d // indirect
-	github.com/stretchr/testify v1.7.0 // indirect
 	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1 // indirect
 	google.golang.org/protobuf v1.26.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
